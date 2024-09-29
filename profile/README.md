@@ -1,4 +1,5 @@
 <h1>Unigamity</h1>
+<img src="https://www.unigamity.com/logo.png">
 
 <h3>Social media:</h3>
 
