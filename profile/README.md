@@ -5,7 +5,7 @@
 
  - Facebook: https://www.facebook.com/unigamity
  - X: https://x.com/unigamity/
- - Bluesky: https://bsky.app/profile/unigamity.bsky.social
+ - Bluesky: https://bsky.app/profile/unigamity.com
  - Twitch: https://www.twitch.tv/unigamity
  - Youtube: https://www.youtube.com/@unigamity
  - Kick: https://kick.com/unigamity
