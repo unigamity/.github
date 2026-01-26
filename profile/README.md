@@ -1,6 +1,8 @@
 <h1>Unigamity</h1>
 <img src="https://www.unigamity.com/logo.png">
-
+<br>
+<p>Unigamity is a platform dedicated to the community of gamers and content creators, offering tools, resources and a space to share experiences.</p>
+<br><br>
 <h3>Social media:</h3>
 
  - Facebook: https://www.facebook.com/unigamity
